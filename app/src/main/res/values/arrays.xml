@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pets_entries">
+        <item>Trixi</item>
+        <item>Bello</item>
+    </array>
+    <array name="settings_entries">
+        <item>Passwort ändern</item>
+        <item>Daten ändern</item>
+        <item>Sprache</item>
+        <item>Benachrichtigungen</item>
+        <item>FAQ</item>
+    </array>
+    <string-array name="updates_entries"/>
+</resources>

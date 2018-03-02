@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_meds"
+                android:title="Medikamente"/>
+        <item
+                android:id="@+id/nav_treats"
+                android:title="Leckerli"/>
+        <item
+                android:id="@+id/nav_camera"
+                android:title="Kamera"/>
+        <item
+                android:id="@+id/nav_status"
+                android:title="Status"/>
+        <item
+                android:id="@+id/nav_protocol"
+                android:title="Protokoll"/>
+    </group>
+    <item
+            android:id="@+id/nav_help"
+            android:title="Hilfe"/>
+</menu>
